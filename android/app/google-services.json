@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "213400106638",
+    "project_id": "mapexample-3c88c",
+    "storage_bucket": "mapexample-3c88c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213400106638:android:85722f97c2149613f8bbdf",
+        "android_client_info": {
+          "package_name": "com.user.fleetuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213400106638-6k57untsvqrf9206hb5gqfpfu7vi13d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzQRqpCdxUosbqVEcCyc5bJml4aVLqzs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213400106638-6k57untsvqrf9206hb5gqfpfu7vi13d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213400106638:android:818bdcdeae5a3128f8bbdf",
+        "android_client_info": {
+          "package_name": "com.user.fleetuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213400106638-6k57untsvqrf9206hb5gqfpfu7vi13d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzQRqpCdxUosbqVEcCyc5bJml4aVLqzs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213400106638-6k57untsvqrf9206hb5gqfpfu7vi13d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
